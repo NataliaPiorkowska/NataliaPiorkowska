@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on changing my career path
+- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 📫 How to reach me:
+  [LinkedIn](https://www.linkedin.com/in/natalia-pi%C3%B3rkowska-5075b6190/)
+  
+
 <!--
 **NataliaPiorkowska/NataliaPiorkowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
