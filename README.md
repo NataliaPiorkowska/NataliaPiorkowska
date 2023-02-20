@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as Junior Frontend Dev
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently working on Store project
 - 📫 How to reach me:
   [LinkedIn](https://www.linkedin.com/in/natalia-pi%C3%B3rkowska-5075b6190/)
   
