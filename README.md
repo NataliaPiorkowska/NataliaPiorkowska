@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as Junior Frontend Dev
-- 🌱 I’m currently working on Store project
+- 🌱 I’m currently working on Frontend Mentor challenge
+- ⚡ Projects:
+  [Recipe page]()
 - 📫 How to reach me:
   [LinkedIn](https://www.linkedin.com/in/natalia-pi%C3%B3rkowska-5075b6190/)
   
