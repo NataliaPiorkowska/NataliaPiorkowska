@@ -3,7 +3,8 @@
 - 🔭 I’m currently working as Junior Frontend Dev
 - 🌱 I’m currently working on Frontend Mentor challenge
 - ⚡ Projects:
-  [Advice App Generator](https://advice-app-generator-ten.vercel.app/)
+  [Interactive Comments section](https://interactive-comments-section-ivory-pi.vercel.app/)|
+  [Advice App Generator](https://advice-app-generator-ten.vercel.app/)|
   [Recipe page](https://recipe-page-beryl.vercel.app/)
 - 📫 How to reach me:
   [LinkedIn](https://www.linkedin.com/in/natalia-pi%C3%B3rkowska-5075b6190/)
