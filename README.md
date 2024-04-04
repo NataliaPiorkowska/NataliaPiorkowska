@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as Junior Frontend Dev
 - 🌱 I’m participating in a frontend challenge hosted by the Frontend Mentor website
 - ⚡ Projects:
-  [Static Job Listings](https://static-job-listings-master-1cvoa5me9.vercel.app/) |
+  [Static Job Listings](https://static-job-listings-master-71aswupdj.vercel.app/) |
   [Interactive Comments section](https://interactive-comments-section-ivory-pi.vercel.app/) |
   [Advice App Generator](https://advice-app-generator-ten.vercel.app/) |
   [Recipe page](https://recipe-page-beryl.vercel.app/)
