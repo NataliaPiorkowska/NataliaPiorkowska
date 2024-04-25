@@ -8,6 +8,7 @@
   [Interactive Comments section](https://interactive-comments-section-ivory-pi.vercel.app/) |
   [Advice App Generator](https://advice-app-generator-ten.vercel.app/) |
   [Recipe page](https://recipe-page-beryl.vercel.app/)
+- ✨ [Store design created in Figma](https://www.figma.com/proto/v57QWd8TWfsXdvr5RgtZU9/FakeStore?node-id=418-616&starting-point-node-id=418%3A616&mode=design&t=5EWguHKBbIJIq7v0-1)
 - 📫 How to reach me:
   [LinkedIn](https://www.linkedin.com/in/natalia-pi%C3%B3rkowska-5075b6190/)
   
