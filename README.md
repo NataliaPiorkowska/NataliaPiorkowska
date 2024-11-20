@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Junior Frontend Dev
-- 🌱 I’m engaging in a frontend challenge hosted by the Frontend Mentor website
-- 🤔 I'm participating in a Google Cloud Associate training
 - ⚡ Projects:
   [Static Job Listings](https://static-job-listings-master-rge0wg8dl.vercel.app/) |
   [Interactive Comments section](https://interactive-comments-section-ivory-pi.vercel.app/) |
